@@ -1,5 +1,14 @@
 {
     "Status": "This is my status, it is defined in a text file I can easily change, bfuwbhfebwhjf ewhhwbehfb ewhj hjewb h",
     "AboutMeText": "This is my about me, I can also just change a text file online to modify this",
-    "AboutMeImage": "https://raw.githubusercontent.com/coffandro/DevstarArtData/refs/heads/master/images/Devin.png"
+    "AboutMeImage": "https://raw.githubusercontent.com/coffandro/DevstarArtData/refs/heads/master/images/Devin.png",
+    "PortfolioFolder": "https://raw.githubusercontent.com/coffandro/DevstarArtData/refs/heads/master/images/portfolio/",
+    "PortfolioYears" : {
+        "2020" : [],
+        "2021" : [],
+        "2022" : [],
+        "2023" : [],
+        "2024" : [],
+        "2025" : []
+    }
 }
