@@ -4,11 +4,17 @@
     "AboutMeImage": "images/Devin.png",
     "PortfolioFolder": "images/portfolio/",
     "PortfolioYears" : {
-        "2020" : [],
-        "2021" : [],
-        "2022" : [],
-        "2023" : [],
-        "2024" : [],
-        "2025" : []
+        "2025" : [
+            "Switcheroo.png",
+            "FarmingDragonsGate.jpg",
+            "DragonStars.png",
+            "FarmingDragonsIsoTest.png",
+            "FightForForest.png",
+            "SwitcherooSpearLD.png",
+            "DatingElf.png",
+            "DatingElfBlush.png",
+            "SleepyDragon.jpg",
+            "DragonFire.jpg"
+        ]
     }
 }
